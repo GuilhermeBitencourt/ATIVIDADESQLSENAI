@@ -1,3 +1,4 @@
+="insert into spo_linhas (linha, intervalo_inicial, posicao, hr_incial, hr_final, T_E, ADO) VALUES ('"&A7&"', "&B7&", "&C7&", '01/01/1900 "&D7&"', '01/01/1900 "&E7&"','"&H7&"', '01/01/1900 "&I7&"');" 
 #ATIVIDADE 1, TERCEIRA AULA.
 
 CREATE DATABASE LIVRARIA;
